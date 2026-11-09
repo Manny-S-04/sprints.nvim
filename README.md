@@ -1,5 +1,7 @@
 # sprints.nvim
 
+Built inside my www.github.com/Manny-S-04/NvimSetup config, the commit history is there.
+
 Zoho Sprints in Neovim: your sprint, the backlog and work items in buffers, with status
 changes, assignment and comments, without opening the browser. A port of
 [jira.nvim](https://github.com/Manny-S-04/jira.nvim) to Zoho's API, keeping its layering:
