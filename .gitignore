@@ -1,0 +1,5 @@
+.luarocks/
+lua_modules/
+/doc/tags
+.DS_Store
+*.log
